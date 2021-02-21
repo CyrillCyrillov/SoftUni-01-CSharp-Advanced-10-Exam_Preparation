@@ -43,6 +43,8 @@ namespace Garden
                 {
                     garden[i, curentColumn]++;
                 }
+
+                garden[curentRow, curentColumn] = 1;
             }
 
 
