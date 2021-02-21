@@ -53,6 +53,10 @@ namespace Garden
                 for (int j = 0; j <= columns -1; j++) // ****** COLUMNS
                 {
                     Console.Write(garden[i, j]);
+                    if(j < columns - 1)
+                    {
+                        Console.Write(' ');
+                    }
                 }
                 Console.WriteLine();
             }
