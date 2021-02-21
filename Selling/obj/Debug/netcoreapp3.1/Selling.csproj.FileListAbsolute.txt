@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\bin\Debug\netcoreapp3.1\Selling.exe
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\bin\Debug\netcoreapp3.1\Selling.deps.json
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\bin\Debug\netcoreapp3.1\Selling.dll
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\bin\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\obj\Debug\netcoreapp3.1\Selling.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\obj\Debug\netcoreapp3.1\Selling.dll
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\obj\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\Kiril\Advanced_CSharp\Exam_Preparation_2\Selling\obj\Debug\netcoreapp3.1\Selling.genruntimeconfig.cache
